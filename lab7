@@ -1,0 +1,12 @@
+console.log ('lab7');
+
+var firstname = '"John ';
+var lastname = 'Doe" ';
+var age = '"26" ';
+
+var is = 'is ';
+var years = 'years old!';
+
+let display = firstname + lastname + is + age + years;
+
+console.log(display);
