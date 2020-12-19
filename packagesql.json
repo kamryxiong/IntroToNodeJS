@@ -1,4 +1,4 @@
-{
+{  
   "name": "is350labs",
   "version": "14.15.0",
   "description": "Simple NodeJS Web App",
@@ -17,9 +17,6 @@
     "url": "https://github.com/kamryxiong/IntroToNodeJS/issues"
   },
   "homepage": "https://github.com/kamryxiong/IntroToNodeJS#readme",
-  "keywords": [],
-  "dependencies": {
-    "mysql": "^2.18.1"
-  },
-  "devDependencies": {}
+  "keywords": []
 }
+
